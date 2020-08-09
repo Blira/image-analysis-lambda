@@ -48,7 +48,7 @@ Note: You will need [Serverless Framework](https://github.com/serverless/serverl
 
 Clone de repository 
 ```
-
+git clone https://github.com/Blira/image-analysis-lambda.git
 ```
 Download dependencies
 ```
